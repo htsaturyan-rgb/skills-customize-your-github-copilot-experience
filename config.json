@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-crud",
+      "title": "Persistent CRUD API with FastAPI and SQLite",
+      "description": "Build a REST API with FastAPI that stores and manages records in a SQLite database.",
+      "path": "assignments/fastapi-sqlite-crud",
+      "dueDate": "2026-05-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
